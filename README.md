@@ -4,6 +4,9 @@ Spawns a ssh server on windows. No installation required. Based on https://githu
 
 ## Usage
 
+## Update
+`If you want to just double click and run then u can use this repo, just change your IP, Port (optional), Your username and evrything same like below`
+
 When launched without arguments, `winssh.exe` default to start an OpenSSH server on port 127.0.0.1:8022.
 You can specify a port using:
 ```
